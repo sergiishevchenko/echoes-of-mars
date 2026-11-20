@@ -1,0 +1,34 @@
+# Build
+build/
+build-release/
+cmake-build-*/
+out/
+*.o
+*.a
+*.dylib
+*.so
+*.exe
+*.app
+
+# IDE / OS / language servers
+.cache/
+.idea/
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+*.user
+*.xcuserdata/
+DerivedData/
+
+# Runtime
+saves/
+*.log
+
+# Dependencies (if fetched locally)
+external/glad/.cache/
+
+# Local tooling
+.venv*/
