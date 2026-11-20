@@ -31,3 +31,4 @@ Close the window or press Escape to quit.
 
 - `ARCHITECTURE.md` — engine architecture
 - `LEARNING_NOTES.md` — learning notes
+- `external/glad/README.md` — how GLAD was generated / how to regenerate
